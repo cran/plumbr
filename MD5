@@ -1,12 +1,12 @@
-f4f8d3ab47dd4a3c6a553a15304cd18c *DESCRIPTION
-09670de90be450a9caae811e68c890bc *NAMESPACE
+2762781b39c950fe1ee93f0250138351 *DESCRIPTION
+bf3163ca612f33b67703236b980415a9 *NAMESPACE
 d849e691e703b45d2216bb128ac02cb7 *R/accessors.r
 5a2a6ac1848be19de73a84f5d21d84fd *R/bindings.r
 a0bf2c63841dfc679907225bb800e11b *R/coercion.r
 536cf1a449a2f2995a09783f42155654 *R/constructor.r
 ae31269fb7aa10afa1abd9a0bde5b9e8 *R/dimensions.r
 df1aa3578318b18d828a1aa88b9e4d48 *R/events.r
-b8bc258ac9c039f1cd0f4d440fb631fc *R/import.r
+abbd8835fb10acab207535f88e3c877f *R/import.r
 91f34893f7cbd62457018c8adbc95956 *R/linking.r
 89d61dc68c406bee094b99822ccf3df2 *R/mutalist.R
 e3802d849fe9877d34640df0459598d4 *R/names.r
