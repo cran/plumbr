@@ -1,6 +1,6 @@
 Package: plumbr
-Version: 0.6.9
-Title: Mutable and dynamic data models
+Version: 0.6.10
+Title: Mutable and Dynamic Data Models
 Author: Michael Lawrence, Hadley Wickham
 Depends: R (>= 2.10.0)
 Imports: utils, methods, objectSignals (>= 0.10.2)
@@ -21,7 +21,7 @@ Collate: 'accessors.r' 'bindings.r' 'coercion.r' 'constructor.r'
         'dimensions.r' 'events.r' 'linking.r' 'mutalist.R' 'names.r'
         'print.r' 'proxy-filter.r' 'selection.r' 'utils.r' 's4.r'
         'import.r' 'globals.r'
-Packaged: 2014-02-22 19:32:17 UTC; larman
 NeedsCompilation: no
+Packaged: 2022-05-06 18:12:20 UTC; michafla
 Repository: CRAN
-Date/Publication: 2014-02-22 22:12:17
+Date/Publication: 2022-05-06 18:30:02 UTC

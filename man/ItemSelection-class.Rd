@@ -31,7 +31,7 @@
 }
 
 \section{Constructor}{
-  \describe{\item{}{\code{ItemSelection(delegate = NULL)}: Constructs an
+  \itemize{\item{\code{ItemSelection(delegate = NULL)}: Constructs an
       \code{ItemSelection} object with the underlying selection provided
       by \code{delegate}, which may be a function or any other R
       object. If it is not a function, \code{delegate} must support the
@@ -55,14 +55,14 @@
   selection object, which will need to support all of them for
   consistency. The following coercions are supported, where \code{x} is
   a \code{ItemSelection} instance:
-  \describe{
-    \item{}{\code{which(x)}: integer indices of the selected items.}
-    \item{}{\code{as.logical(x)}: \code{TRUE} where selected.}
-    \item{}{\code{as.integer(x)}: usually 0L (unselected) or 1L
+  \itemize{
+    \item{\code{which(x)}: integer indices of the selected items.}
+    \item{\code{as.logical(x)}: \code{TRUE} where selected.}
+    \item{\code{as.integer(x)}: usually 0L (unselected) or 1L
       (selected), but in general it is a weighting of the selection.}
-    \item{}{\code{as.numeric(x)}: similar to \code{as.integer}, except
+    \item{\code{as.numeric(x)}: similar to \code{as.integer}, except
       with real values.}
-    \item{}{\code{as.factor(x)}: ordinarily this will have two
+    \item{\code{as.factor(x)}: ordinarily this will have two
       levels, \code{FALSE} and \code{TRUE}, although it could have more,
       which confers support for multinary selections.}
   }

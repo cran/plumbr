@@ -22,7 +22,7 @@
 }
 
 \section{Constructor}{
-  \describe{\item{}{\code{RegionSelection(delegate = NULL)}: Constructs
+  \itemize{\item{\code{RegionSelection(delegate = NULL)}: Constructs
       an \code{RegionSelection} object with the underlying selection
       provided by \code{delegate}, which may be a function or any other
       R object. If it is not a function, \code{delegate} must support
@@ -44,8 +44,8 @@
   we recommend that the client interpret the selection through
   coercion. Currently, there is only one supported coercion of
   \code{RegionSelection}:
-  \describe{
-    \item{}{\code{as.matrix(x)}: returns a matrix with a column for each
+  \itemize{
+    \item{\code{as.matrix(x)}: returns a matrix with a column for each
       dimension and a row for each point. In the 2D case, the points
       describe one or more polygons. As with the \code{\link{polygon}}
       function, polygons are separated by rows of \code{NA}, and the last

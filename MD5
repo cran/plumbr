@@ -1,4 +1,4 @@
-c12388cd2fe40c533d1bff64192f93c1 *DESCRIPTION
+98564c3dd751302d2c0185bbee355a48 *DESCRIPTION
 5170bbda5d2497faa28150d88b8bd6a5 *NAMESPACE
 d849e691e703b45d2216bb128ac02cb7 *R/accessors.r
 5a2a6ac1848be19de73a84f5d21d84fd *R/bindings.r
@@ -23,8 +23,8 @@ a68467a9c03cea99f4728d499fc665cc *inst/tests/test-mutability.r
 10af5448fa523126b7474b6872c4fc54 *inst/tests/test-mutaframe.r
 f3323729fd117b546d5907de42dca30d *inst/tests/test-names.r
 5de64a2079ceef8a3b89f65d29215d84 *man/DataSelection.Rd
-0c948139b5fd0df9d8218e78e39ead87 *man/ItemSelection-class.Rd
-a88d7f2cef7e3c357146c53c281a6bcc *man/RegionSelection-class.Rd
+d71a48abe19bb04dddf6ab0a6f0ada0b *man/ItemSelection-class.Rd
+3f57b7579bab178e5c5cfd60542fd0f3 *man/RegionSelection-class.Rd
 c6a449bd2247cbb5c671efe8f0718313 *man/Selection-class.Rd
 37162ce0a05efd45c696809a83e73aaa *man/accessors.Rd
 5cba88c01bbd5ae1c0337e5b963b3f2f *man/add_listener.Rd
